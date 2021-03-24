@@ -1,4 +1,4 @@
-# superman1
+# superman
 
 ## Project setup
 ```
